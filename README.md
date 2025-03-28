@@ -7,5 +7,7 @@ A preview of my portfolio website.
 
 Home Screenshot
 ![image](https://github.com/user-attachments/assets/b39af7b5-cb84-402e-b750-4e80b3086595)
+
+
 Education Screenshot
 ![image](https://github.com/user-attachments/assets/928c7f07-f790-413f-9ae7-cb91bbcee9b2)
